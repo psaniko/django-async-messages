@@ -41,7 +41,7 @@ Yes, there are - but they solve the problem in different ways:
 * `django-notifications`_  
 
 .. _`django-offline-messages`: https://github.com/dym/django-offline-messages
-.. _`django-notifications`: https://github.com/jtauber/django-notification
+.. _`django-notifications`: https://github.com/django-notifications/django-notifications
 
 What's good about this implementation?
 --------------------------------------
